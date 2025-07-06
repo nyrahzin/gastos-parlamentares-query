@@ -53,9 +53,7 @@ projeto_etl_duckdb/
 ├── etl_pipeline.ipynb
 └── README.md
 
-yaml
-Copiar
-Editar
+
 
 ---
 
