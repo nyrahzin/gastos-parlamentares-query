@@ -62,4 +62,4 @@ Editar
 ## 🎥 Apresentação
 
 📹 Link para o vídeo explicando o projeto (YouTube):  
-👉 _[colar aqui o link do vídeo]_
+👉 _[https://colab.research.google.com/drive/11XTp1dWpWW1SkONgZX1TLANOAwIoA4oh?authuser=1#scrollTo=C4_tr_x9CaIi]_
